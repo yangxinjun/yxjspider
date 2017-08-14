@@ -20,6 +20,7 @@ def getdate():
 
 def combile(key,mulu):
     i =1
+    # test
     print(mulu[0])
     os.chdir("/home/yxj/PycharmProjects/test/result")
     time = getdate()
